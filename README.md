@@ -1,20 +1,26 @@
-<h1 align="center">Hi, I'm Lazar Tatomir</h1>
-<h3 align="center">A passionate cybersecurity enthusiast, who is also first-year software engineer student.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g0ldenrat10&label=Profile%20views&color=0e75b6&style=flat" alt="g0ldenrat10" /> </p>
+<h1>Hi, I'm Lazar Tatomir</h1>
+<h3>A passionate cybersecurity enthusiast, who is also first-year software engineer student.</h3>
 
-- I’m looking to collaborate on **Cybersecurity based projects.**
-- I’m looking to help with **anything Cybersecurity, Linux or Python related.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@g0ldenrat10" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="g0ldenrat10" height="30" width="40" />
-</a>
+<p>
+    <img src="https://komarev.com/ghpvc/?username=g0ldenrat10&label=Profile%20views&color=0e75b6&style=flat" alt="g0ldenrat10" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p>
+- I’m looking to collaborate on <b>Cybersecurity based projects.</b><br>
+- I’m looking to help with <b>anything Cybersecurity, Linux or Python related.</b>
+</p>
+
+<h3>Connect with me:</h3>
+<p>
+    <a href="https://www.youtube.com/@g0ldenrat10" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="g0ldenrat10" height="30" width="40" />
+    </a>
+</p>
+
+<h3>Languages and Tools:</h3>
+<p> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
@@ -35,6 +41,12 @@
     </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g0ldenrat10&show_icons=true&locale=en" alt="g0ldenrat10" /></p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=g0ldenrat10&show_icons=true&locale=en" alt="g0ldenrat10" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g0ldenrat10&" alt="g0ldenrat10" /></p>
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=g0ldenrat10&" alt="g0ldenrat10" />
+</p>
+
+</div>
