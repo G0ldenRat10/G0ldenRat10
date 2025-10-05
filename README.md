@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g0ldenrat10&label=Profile%20views&color=0e75b6&style=flat" alt="g0ldenrat10" /> </p>
 
-- 🔭 I’m looking to collaborate on **Cybersecurity based projects.**
-- 🤝 I’m looking for help with **anything Cybersecurity, Linux or Python related.**
+- I’m looking to collaborate on **Cybersecurity based projects.**
+- I’m looking for help with **anything Cybersecurity, Linux or Python related.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
