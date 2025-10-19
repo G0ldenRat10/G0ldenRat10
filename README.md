@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Lazar Tatomir</h1>
+<h1>I'm Lazar Tatomir</h1>
 <h3>A passionate cybersecurity enthusiast, who is also first-year software engineer student.</h3>
 
 <p>
