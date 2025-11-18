@@ -12,7 +12,7 @@
 - I’m looking to help with <b>anything Cybersecurity, Linux or Python related.</b>
 </p>
 
-<h3>Connect with me:</h3>
+<h3>Connect:</h3>
 <p>
     <a href="https://www.youtube.com/@g0ldenrat10" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="g0ldenrat10" height="30" width="40" />
