@@ -41,12 +41,4 @@
     </a>
 </p>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=g0ldenrat10&show_icons=true&locale=en" alt="g0ldenrat10" />
-</p>
-
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=g0ldenrat10&" alt="g0ldenrat10" />
-</p>
-
 </div>
