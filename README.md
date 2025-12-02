@@ -8,8 +8,8 @@
 </p>
 
 <p>
-- I’m looking to collaborate on <b>Cybersecurity based projects.</b><br>
-- I’m looking to help with <b>anything Cybersecurity, Linux or Python related.</b>
+- I’m looking forward to collaborate on <b>Cybersecurity based projects.</b><br>
+- Also looking forward to help with <b>anything Cybersecurity, Linux or Python related.</b>
 </p>
 
 <h3>Connect:</h3>
