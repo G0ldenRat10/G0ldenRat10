@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>I'm Lazar Tatomir</h1>
-<h3>A passionate cybersecurity enthusiast, who is also first-year software engineer student.</h3>
+<h3>Cybersecurity enthusiast, who is also first-year software engineer student.</h3>
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=g0ldenrat10&label=Profile%20views&color=0e75b6&style=flat" alt="g0ldenrat10" />
