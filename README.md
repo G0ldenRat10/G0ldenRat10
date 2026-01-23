@@ -9,7 +9,7 @@
 
 <p>
 - Looking forward to collaborate on <b>Cybersecurity based projects.</b><br>
-- Also looking forward to help with <b>anything Cybersecurity, Linux or Python related.</b>
+- Also looking forward to help with <b>anything Cybersecurity, Linux, Python or JavaScript related.</b>
 </p>
 
 <h3>Connect:</h3>
