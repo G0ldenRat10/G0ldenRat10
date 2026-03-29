@@ -42,6 +42,6 @@
 </p>
 
 <h3>TryHackMe:</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/goldenratio.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/goldenratio.png" alt="Your Image Badge"/>
 
 </div>
