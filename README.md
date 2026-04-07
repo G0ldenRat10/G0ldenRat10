@@ -17,6 +17,9 @@
     <a href="https://www.youtube.com/@g0ldenrat10" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="g0ldenrat10" height="30" width="40" />
     </a>
+    <a href="https://tryhackme.com/p/goldenratio" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tryhackme.svg" alt="TryHackMe" height="30" width="40"/>
+    </a>
 </p>
 
 <h3>Skills:</h3>
