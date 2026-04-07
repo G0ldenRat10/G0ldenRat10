@@ -43,8 +43,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a>
 </p>
-
-<h3>TryHackMe:</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/goldenratio.png" alt="Your Image Badge"/>
-
 </div>
