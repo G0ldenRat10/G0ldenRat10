@@ -21,5 +21,4 @@
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tryhackme.svg" alt="TryHackMe" height="30" width="40"/>
     </a>
 </p>
-
 </div>
