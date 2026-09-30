@@ -1,6 +1,4 @@
 <div align="center">
-
-<h1>Lazar Tatomir</h1>
 <h3>Cybersecurity enthusiast and second year software engineer student.</h3>
 
 <p>
